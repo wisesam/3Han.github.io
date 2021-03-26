@@ -20,7 +20,7 @@ title                    : "Sam Han (삼한)의 IT & Sprituality"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sam Han (삼한)"
-description              : "I am an educator, a full stack Web App developer, and a bike rider. I will be sharing my stories and thoughts from my devine pilgrimage in IT"
+description              : "Description"
 url                      : "https://wisesam.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -94,18 +94,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Sam Han (삼한)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I am an educator, a full stack Web App developer, and a bike rider. I will be sharing my stories and thoughts from my devine pilgrimage in IT"
+  location         : "Jukjeon"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      # url: "mailto:lalasjhan@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      # url: "https://wise4edu.com/init"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
