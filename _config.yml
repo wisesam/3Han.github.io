@@ -98,7 +98,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an educator, a full stack Web App developer, and a bike rider. I will be sharing my stories and thoughts from my devine pilgrimage in IT"
   location         : "Jukjeon"
-  email            :
+  email            : "lalasjhan@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
