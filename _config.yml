@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sam Han (삼한)의 IT & Sprituality"
+title                    : "Sam Han (삼한)'s IT & Sprituality"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sam Han (삼한)"
